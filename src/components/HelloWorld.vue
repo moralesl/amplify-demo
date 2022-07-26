@@ -57,7 +57,7 @@ a {
   color: #42b983;
 }
 b {
-  color: red;
+  color: green;
   font-size: 5em;
 }
 </style>
